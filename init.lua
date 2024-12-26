@@ -204,7 +204,7 @@ require 'keymaps'
 require('lazy').setup({
   -- NOTE: Plugins can be added with a link (or for a github repo: 'owner/repo' link).
   'tpope/vim-sleuth', -- Detect tabstop and shiftwidth automatically
-
+  'karoliskoncevicius/vim-sendtowindow',
   --
   -- require 'kickstart.plugins.debug',
   -- require 'kickstart.plugins.indent_line',
