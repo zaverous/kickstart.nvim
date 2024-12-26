@@ -2,6 +2,7 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
+-- this is a colorscheme plugin from catpuccin
 return {
   {
     'catppuccin/nvim',
